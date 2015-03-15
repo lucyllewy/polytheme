@@ -1,0 +1,27 @@
+{
+  "name": "polytheme",
+  "version": "0.1",
+  "authors": [
+    "Daniel Llewellyn <daniel@bowlhat.net>"
+  ],
+  "description": "Polmer/Web Component-based theme using the Google Material styling",
+  "keywords": [
+    "polymer",
+    "material",
+    "web-components",
+    "wordpress"
+  ],
+  "license": "GPL",
+  "homepage": "https://bowlhat.net",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "~0.5.5"
+  }
+}
